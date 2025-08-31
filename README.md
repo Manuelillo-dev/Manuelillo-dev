@@ -24,7 +24,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=tokyonight" width="38%" />
 
 ---
 
