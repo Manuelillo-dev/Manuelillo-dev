@@ -30,10 +30,11 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 ## 🚧 Proyectos destacados
 
-- 🌱 **ControlAgro25** (En colaboración con Said Piñones)  
+- 🌱 **ControlAgro25** (En colaboración con [Said Piñones](https://github.com/SaidPR))  
   App móvil desarrollada en **React Native + Firebase** para gestionar la producción agrícola.  
   Incluye registro de actividades, seguimiento en tiempo real, autenticación, y envío de notificaciones push.  
   Arquitectura basada en **MVVM**, uso de Firestore y Expo Notifications.
+
 
 *Próximamente agregaré mis proyectos personales...*
 
