@@ -17,7 +17,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,sqlite,firebase,mongodb,windows,linux" height="50" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,sqlite,firebase,mongodb,fastapi,swagger,prolog,windows,linux" height="50" alt="Tecnologías" />
 </div>
 
 ---
