@@ -48,18 +48,21 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 ## 📈 GitHub Stats
 
+<!--
+  <div align="center">  
+    <a href="https://github.com/Manuelillo-dev">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelillo-dev&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Streak" />
+    </a>
+  </div>
+ --> 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Manuelillo-dev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+  
   <div align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img src="https://github-readme-stats.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Stats" />
     </a>
   </div>
-  
-   <div align="center">  
-    <a href="https://github.com/Manuelillo-dev">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelillo-dev&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Streak" />
-    </a>
-  </div>
-  
+   
   <div align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's Top Languages" />
