@@ -76,7 +76,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   **Stack:** React + FastAPI + PostgreSQL + Vercel + Aiven  
   **Metodología:** DevATHENA (metodología ágil propia)
 
-- 📊 **AsistenciasREST** (En colaboración con [Carlos H. García Lira](https://github.com/CHGL17), [Leonardo B. Garibay](https://github.com/LeonardoBG2003),[Carlos E. López Quesada](https://github.com/manyquesada))  
+- 📊 **[AsistenciasREST](https://github.com/CHGL17/AsistenciasREST)** (En colaboración con [Carlos H. García Lira](https://github.com/CHGL17), [Leonardo B. Garibay](https://github.com/LeonardoBG2003),[Carlos E. López Quesada](https://github.com/manyquesada))  
   API REST robusta para gestionar actividades extraescolares en el ITESZ, resolviendo la problemática de acreditación estudiantil.  
   **Arquitectura:** 3 microservicios por dominio (Asistencias, Usuarios, Grupos)  
   **Stack:** FastAPI + MongoDB Atlas + Swagger  
