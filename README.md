@@ -3,7 +3,7 @@
 
 <img align="right" width="300px" alt="Programming Cat" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxaHZlY3ZydXA3d3BkcWdxOGZpd3Ixb3c4OTViOGh2OHMxdTY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30px">&nbsp;***💻ACERCA DE MI👦🏻***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxaHZlY3ZydXA3d3BkcWdxOGZpd3Ixb3c4OTViOGh2OHMxdTY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100px">&nbsp;***💻ACERCA DE MI👦🏻***
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manuel.raamirez03@gmail.com)
 [![Business Badge](https://img.shields.io/badge/Business-0078D4.svg?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:manuel.ramirez@compucloud.com.mx)
