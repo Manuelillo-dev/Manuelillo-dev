@@ -3,8 +3,6 @@
 
 <img align="right" width="300px" alt="Programming Cat" src="https://media.giphy.com/media/U5bW4gcW5JTlBQdrxV/giphy.gif" />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dwdHB3a2VnOTF0OGxoMWp4eGdpajgwczdzOHNkZG1hdW96dHlvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4oWkzyVeVgTwKQ/giphy.gif" width="30px">&nbsp;***💻ACERCA DE MI👦🏻***
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manuel.raamirez03@gmail.com)
 [![Business Badge](https://img.shields.io/badge/Business-0078D4.svg?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:manuel.ramirez@compucloud.com.mx)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelramírez-mich)
