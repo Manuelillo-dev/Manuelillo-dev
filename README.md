@@ -52,6 +52,9 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
     <a href="https://github.com/Manuelillo-dev">
       <img src="https://github-readme-stats.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Stats" />
     </a>
+  </div>
+  
+   <div align="center">  
     <a href="https://github.com/Manuelillo-dev">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuelillo-dev&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Streak" />
     </a>
