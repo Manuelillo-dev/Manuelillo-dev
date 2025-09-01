@@ -55,7 +55,11 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
     </a>
   </div>
  --> 
- [![GitHub Streak](https://streak-stats.demolab.com?user=Manuelillo-dev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+ <div align="center">
+   
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Manuelillo-dev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+
+ </div>
   
   <div align="center">
     <a href="https://github.com/Manuelillo-dev">
