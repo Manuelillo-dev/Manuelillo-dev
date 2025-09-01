@@ -20,6 +20,17 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,sqlite,firebase,mongodb,fastapi,windows,linux" height="50" alt="Tecnologías" />
 </div>
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
 ---
 
 ## 📈 GitHub Stats
