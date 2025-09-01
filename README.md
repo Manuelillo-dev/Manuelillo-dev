@@ -30,13 +30,27 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 ## 🚧 Proyectos destacados
 
-- 🌱 **ControlAgro25** (En colaboración con [Said Piñones](https://github.com/SaidPR))  
-  App móvil desarrollada en **React Native + Firebase** para gestionar la producción agrícola.  
-  Incluye registro de actividades, seguimiento en tiempo real, autenticación, y envío de notificaciones push.  
-  Arquitectura basada en **MVVM**, uso de Firestore y Expo Notifications.
+- 🍩 **[SGP2 - Mini Donas Arenita](https://github.com/AngelMariscal01/MDA)** (En colaboración con [Ángel D. Mariscal](https://github.com/AngelMariscal01))  
+  Sistema web integral para digitalizar la gestión de pedidos e inventario de la repostería "Mini Donas Arenita".  
+  **Rol:** COO/CTO - Frontend Developer, liderando arquitectura y decisiones técnicas.  
+  **Stack:** React + FastAPI + PostgreSQL + Vercel + Aiven  
+  **Metodología:** DevATHENA (metodología ágil propia)
 
+- 📊 **AsistenciasREST** (En colaboración con [Carlos H. García Lira](https://github.com/CHGL17), [Leonardo B. Garibay](https://github.com/Leonardo_BG),[Carlos E. López Quesada](https://github.com/manyquesada))  
+  API REST robusta para gestionar actividades extraescolares en el ITESZ, resolviendo la problemática de acreditación estudiantil.  
+  **Arquitectura:** 3 microservicios por dominio (Asistencias, Usuarios, Grupos)  
+  **Stack:** FastAPI + MongoDB Atlas + Swagger  
+  **Impacto:** Optimización del proceso de liberación de créditos académicos
 
-*Próximamente agregaré mis proyectos personales...*
+- 🌱 **[ControlAgro25](https://github.com/SaidPR/ControlAgro25)** (En colaboración con [Said Piñones](https://github.com/SaidPR))  
+  App móvil para gestión agrícola integral: control de asistencia, producción y trabajadores.  
+  **Stack:** React Native + Firebase + Expo Notifications  
+  **Arquitectura:** MVVM con Firestore y notificaciones push en tiempo real
+
+- 📱 **[Calls Linking](https://github.com/Manuelillo-dev/Calls_Linking-API_REACT-NATIVE)**  
+  App móvil para gestión de trabajadores con funcionalidades avanzadas de comunicación.  
+  Incluye llamadas directas, edición de perfiles con cámara/galería y navegación dinámica.  
+  **Stack:** React Native + Expo + React Navigation
 
 ---
 
