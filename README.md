@@ -1,6 +1,10 @@
 
 <h1 align="center"><b>Hola, soy Manuel Ramírez  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://ar.pinterest.com/pin/1024217140228067688/)" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manuel.raamirez03@gmail.com)
 [![Business Badge](https://img.shields.io/badge/Business-0078D4.svg?style=for-the-badge&logo=Microsoft&logoColor=white)](mailto:manuel.ramirez@compucloud.com.mx)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelramírez-mich)
