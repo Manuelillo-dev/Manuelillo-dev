@@ -55,23 +55,56 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
     </a>
   </div>
  --> 
- <div align="center">
-   
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Manuelillo-dev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+<!-- 🔥 Estilo Retro-Punk para tu README -->
 
- </div>
-  
-  <div align="center">
-    <a href="https://github.com/Manuelillo-dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Stats" />
-    </a>
-  </div>
+<div align="center">
+
+  <!-- Banner animado (simulado con glitch gif retro/punk) -->
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100%" alt="Glitch Punk Banner"/>
+
+</div>
+
+<br/>
+
+<div align="center">
    
-  <div align="center">
-    <a href="https://github.com/Manuelillo-dev">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="Manuel's Top Languages" />
-    </a>
-  </div>
+   <!-- GitHub Streak (entra desde la izquierda) -->
+   <a href="https://github.com/Manuelillo-dev">
+     <img src="https://streak-stats.demolab.com?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480" alt="GitHub Streak" />
+   </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- GitHub Stats (entra desde la derecha) -->
+  <a href="https://github.com/Manuelillo-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=radical&title_color=ff0055&icon_color=00ffee&text_color=ffffff&bg_color=0d0d0d&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Stats" />
+  </a>
+  
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Top Languages (entra desde la izquierda) -->
+  <a href="https://github.com/Manuelillo-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=radical&title_color=ff0055&text_color=00ffee&bg_color=0d0d0d&hide_border=true&locale=es" width="48%" alt="Manuel's Top Languages" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Separador animado (glitch/punk vibes) -->
+  <img src="https://media.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy.gif" width="80%" alt="Glitch Separator"/>
+
+</div>
 
 ---
 
