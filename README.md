@@ -111,6 +111,6 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 ---
 
-## 🙌 ¡Gracias por visitar mi perfil!
+## 🙌 ¡Gracias por visitar mi perfil-dev!
 
 _"El conocimiento se construye paso a paso, un desafío a la vez."_
