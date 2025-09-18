@@ -57,31 +57,46 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
  --> 
 <!-- 🔥 Estilo Retro-Punk para tu README -->
 
-<div align="center">
-      <!-- GitHub Streak (entra desde la izquierda) -->
-   <a href="https://github.com/Manuelillo-dev">
-     <img src="https://streak-stats.demolab.com?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480" alt="GitHub Streak" />
-   </a>
-</div>
+<!-- 🔥 Widgets auto-hosted con caché para evitar rate limits -->
 
-<br/>
+<details>
+  <summary><b>🔥 Streak</b> (click para mostrar)</summary>
+  <p align="center">
+    <a href="https://github.com/Manuelillo-dev">
+      <img
+        src="https://<TU-DOMINIO-STREAK>.vercel.app/?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
+        alt="GitHub Streak de Manuel"
+      />
+    </a>
+  </p>
+</details>
 
-<div align="center">
-  <!-- GitHub Stats (entra desde la derecha) -->
-  <a href="https://github.com/Manuelillo-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=radical&title_color=ff0055&icon_color=00ffee&text_color=ffffff&bg_color=0d0d0d&hide_border=true&locale=es" width="48%" alt="Manuel's GitHub Stats" />
-  </a>
-</div>
+<details open>
+  <summary><b>📊 Estadísticas</b></summary>
+  <p align="center">
+    <a href="https://github.com/Manuelillo-dev">
+      <picture>
+        <!-- SVG dinámico -->
+        <source srcset="https://<TU-DOMINIO-GRS>.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=radical&title_color=ff0055&icon_color=00ffee&text_color=ffffff&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400" type="image/svg+xml" />
+        <!-- Fallback PNG por si el SVG falla -->
+        <img src="https://raw.githubusercontent.com/Manuelillo-dev/Manuelillo-dev/main/assets/github-stats-fallback.png" alt="GitHub Stats" width="48%" />
+      </picture>
+    </a>
+  </p>
+</details>
 
-<br/>
+<details>
+  <summary><b>🧠 Lenguajes más usados</b></summary>
+  <p align="center">
+    <a href="https://github.com/Manuelillo-dev">
+      <img
+        src="https://<TU-DOMINIO-GRS>.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=radical&title_color=ff0055&text_color=00ffee&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400"
+        alt="Top Languages de Manuel" width="48%"
+      />
+    </a>
+  </p>
+</details>
 
-<div align="center">
-
-  <!-- Top Languages (entra desde la izquierda) -->
-  <a href="https://github.com/Manuelillo-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=radical&title_color=ff0055&text_color=00ffee&bg_color=0d0d0d&hide_border=true&locale=es" width="48%" alt="Manuel's Top Languages" />
-  </a>
-</div>
 
 ---
 
