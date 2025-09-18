@@ -64,7 +64,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img
-        src="https://grs-manuel.vercel.app/?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
+        src="https://streak-stats.demolab.com?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
         alt="GitHub Streak de Manuel"
       />
     </a>
