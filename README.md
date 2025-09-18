@@ -59,7 +59,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 <!-- 🔥 Widgets auto-hosted con caché para evitar rate limits -->
 
-<details>
+<details open>
   <summary><b>🔥 Streak</b> (click para mostrar)</summary>
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
@@ -71,7 +71,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>📊 Estadísticas</b></summary>
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
