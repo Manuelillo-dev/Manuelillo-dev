@@ -72,7 +72,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 </details>
 
 
-<details>
+<details open>
   <summary><b>📊 Estadísticas</b></summary>
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
@@ -86,7 +86,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>🧠 Lenguajes más usados</b></summary>
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
