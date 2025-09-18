@@ -64,7 +64,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img
-        src="https://<TU-DOMINIO-STREAK>.vercel.app/?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
+        src="https://grs-manuel.vercel.app/?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
         alt="GitHub Streak de Manuel"
       />
     </a>
@@ -77,7 +77,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
     <a href="https://github.com/Manuelillo-dev">
       <picture>
         <!-- SVG dinámico -->
-        <source srcset="https://<TU-DOMINIO-GRS>.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=radical&title_color=ff0055&icon_color=00ffee&text_color=ffffff&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400" type="image/svg+xml" />
+        <source srcset="https://grs-manuel.vercel.app/api?username=Manuelillo-dev&show_icons=true&theme=radical&title_color=ff0055&icon_color=00ffee&text_color=ffffff&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400" type="image/svg+xml" />
         <!-- Fallback PNG por si el SVG falla -->
         <img src="https://raw.githubusercontent.com/Manuelillo-dev/Manuelillo-dev/main/assets/github-stats-fallback.png" alt="GitHub Stats" width="48%" />
       </picture>
@@ -90,7 +90,7 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img
-        src="https://<TU-DOMINIO-GRS>.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=radical&title_color=ff0055&text_color=00ffee&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400"
+        src="https://grs-manuel.vercel.app/api/top-langs/?username=Manuelillo-dev&layout=compact&theme=radical&title_color=ff0055&text_color=00ffee&bg_color=0d0d0d&hide_border=true&locale=es&cache_seconds=86400"
         alt="Top Languages de Manuel" width="48%"
       />
     </a>
