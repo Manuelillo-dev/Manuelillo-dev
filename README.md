@@ -59,17 +59,18 @@ Soy estudiante de Ingeniería en Sistemas con conocimientos en desarrollo de sof
 
 <!-- 🔥 Widgets auto-hosted con caché para evitar rate limits -->
 
-<details open>
+<details>
   <summary><b>🔥 Streak</b> (click para mostrar)</summary>
   <p align="center">
     <a href="https://github.com/Manuelillo-dev">
       <img
-        src="https://streak-stats.demolab.com?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
+        src="https://github-streak-manuel.vercel.app/?user=Manuelillo-dev&theme=radical&border_radius=10&hide_border=true&exclude_days=Sun%2CSat&card_width=480&cache_seconds=86400"
         alt="GitHub Streak de Manuel"
       />
     </a>
   </p>
 </details>
+
 
 <details>
   <summary><b>📊 Estadísticas</b></summary>
